@@ -4,27 +4,24 @@
   "version": "0.2.3",
   "private": true,
   "packageManager": "pnpm@8.11.0",
-  "description": "一站式前端内容网站，包括学习路线、知识体系（用专栏形式更新）。",
-  "author": "Choi Yang<https://github.com/Chocolate1999>",
+  "description": "优加实习 求职知识库，包括实习简历撰写、模拟面试、热门岗位面经、运营岗位基础知识",
+  "author": "youjiasx.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chodocs/chodocs"
+    "url": "git+https://github.com/Greenet-TC/greenet-knowledge-base?tab=readme-ov-file"
   },
   "bugs": {
-    "url": "https://github.com/chodocs/chodocs/issues"
+    "url": "https://github.com/Greenet-TC/greenet-knowledge-base?tab=readme-ov-file/issues"
   },
   "keywords": [
-    "react 专栏",
-    "vue 专栏",
-    "TypeScript 系列",
-    "Next.js 实战",
-    "Chocolate",
-    "前端基础",
-    "前端学习路线",
-    "前端思维导图",
-    "知识星球",
-    "小狮子前端"
+    "产品经理 专栏",
+    "运营 专栏",
+    "互联网校招面经 系列",
+    "项目实战 实战",
+    "后端开发 专栏",
+    "前端开发 专栏",
+    "模拟面试"
   ],
   "scripts": {
     "dev": "vitepress dev docs --port 8080 --max-old-space-size=50000",

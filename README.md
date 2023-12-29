@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img  alt="chodocs" src="https://chodocs.cn/chodocs-logo.svg"/>
 </p>
 
@@ -139,4 +139,4 @@ Thank you to all the people who already contributed to my project!
 ## 📄 License
 
 [MIT License](https://github.com/chodocs/chodocs/blob/main/LICENSE) © 2022-PRESENT [Choi Yang](https://github.com/Chocolate1999)
-# greenet-knowledge-base
+# greenet-knowledge-base -->
